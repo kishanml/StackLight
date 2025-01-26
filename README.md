@@ -6,3 +6,16 @@ This project involved designing an algorithm for PowerMetric to overcome a stack
 ![alt text](https://github.com/kishanml/StackLight/blob/main/image.gif)
 
 [![Watch the Demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-blue)](https://raw.githubusercontent.com/kishanml/StackLight/main/demo.mp4)
+
+
+## Technology Stack
+
+- **Frontend**:
+  - React
+  - Electron (for building a cross-platform application)
+  
+- **Backend**:
+  - **Mask RCNN** (for training the model and detecting objects)
+  - **OpenCV** (for image processing and feature extraction)
+  - **NumPy** (for numerical computations)
+  - **Flask** (for API development and integration)
