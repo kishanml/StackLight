@@ -5,7 +5,9 @@ This project involved designing an algorithm for PowerMetric to overcome a stack
 
 ![alt text](https://github.com/kishanml/StackLight/blob/main/image.gif)
 
-[![Watch the Demo](https://img.shields.io/badge/Watch%20Demo-Click%20Here-blue)](https://raw.githubusercontent.com/kishanml/StackLight/main/demo.mp4)
+# Results
+
+https://github.com/user-attachments/assets/d7ddc93d-b9eb-4a27-927c-189a1bef4deb
 
 
 ## Technology Stack
